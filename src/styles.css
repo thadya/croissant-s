@@ -1,0 +1,25 @@
+body {
+    background: #c7c3b4;
+  }
+  
+  h1,
+  p {
+    text-align: center;
+  }
+  
+  .croissant-pic {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  h2 a {
+    margin: 0 10px;
+    color: rgb(43, 63, 43);
+  }
+  
