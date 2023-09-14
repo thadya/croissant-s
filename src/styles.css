@@ -2,7 +2,7 @@ body {
     background: #c7c3b4;
   }
   
-  h1,
+  h2,
   p {
     text-align: center;
   }
@@ -14,11 +14,11 @@ body {
     margin: 30px auto;
   }
   
-  h2 {
+  h3 {
     text-align: center;
   }
   
-  h2 a {
+  h3 a {
     margin: 0 10px;
     color: rgb(43, 63, 43);
   }
